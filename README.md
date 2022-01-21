@@ -1,6 +1,6 @@
 <div align=center> 
   <p>
-  <a href="https://velog.io/@grolar812" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@grolar812" target="_blank"><img src="https://img.shields.io/badge/Velog-12b886?style=flat-square&logo=%20Sponsors&logoColor=white"/></a>
   
   
   
