@@ -1,8 +1,8 @@
 <div align=center> 
   <p>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/ -EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/ -0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://velog.io/@grolar812" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  
+  
   
 </p>
 <p>
